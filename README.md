@@ -1,2 +1,2 @@
-# Estrutura_Sele-o_M-ltipla
+# Estrutura_Seleção_Múltipla
 Marisangela
